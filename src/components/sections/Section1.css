@@ -1,0 +1,38 @@
+.section {
+    margin-top: 7rem;
+    width: 100%;
+    padding: 0 10%;
+  }
+  
+  .section-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .section-1 .content {
+    flex-basis: 31%;
+  }
+  
+  .section-1 h2 {
+    color: rgb(109, 109, 109);
+    padding-top: 0px;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .section-1 p{
+    line-height: 1.7;
+    max-width: 42em;
+  }
+  
+  hr {
+    height: 1px;
+    /* margin-bottom: -1px; */
+    border: none;
+    border-bottom: 1px solid #ececec;
+    margin: 2.5rem 0;
+  }
+  
+  
